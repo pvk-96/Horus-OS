@@ -1,4 +1,4 @@
-# Horus OS 🦅
+# Horus OS 
 
 Horus OS is a **TTY-first, Ubuntu-based Linux distribution** designed for
 developers, learners, and servers who prefer clarity, control, and terminal-driven workflows.
